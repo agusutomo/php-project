@@ -6,7 +6,7 @@
 <body>
 
 <h1>SHTML / SSI test</h1>
-<!--#include virtual="ssi-test.html" -->
+<!--#include file="ssi-test.html" -->
 <p>The above contents are included from the ssi-test.html</p>
 
 </body>
