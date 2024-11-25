@@ -14,7 +14,8 @@
     "prefer-lowest": false,
     "platform": {
         "php": "^7.2.0",
-        "ext-gd": "*"
+        "ext-gd": "*",
+        "ext-imagick": "*"
     },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
